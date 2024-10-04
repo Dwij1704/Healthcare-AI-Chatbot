@@ -74,7 +74,7 @@ The Healthcare AI Chatbot is designed to provide users with a conversational int
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Dwij1704/Healthcare-AI-Chatbot.git
    cd healthcare-ai-chatbot
    ```
 
